@@ -13,6 +13,68 @@ body{
     width: 38px;
     height: 38px;
 }
+.media-body{
+    padding-top: 10px;
+}
 .profile .section{
     margin-top: 15px;
+}
+.jumbotron {
+    margin: 50px;
+}
+.comment{
+    margin: 10px 0;
+}
+.comment-btn{
+    float: right;
+    margin-bottom: 10px;
+}
+.comment-span{
+    margin-top: 0;
+}
+.question-title{
+    margin-top: 25px;
+}
+.question-menu{
+    color: #999;
+    margin-top: 5px;
+}
+.question-menu .span-icon{
+    font-size: 15px;
+    cursor: pointer;
+}
+.question-menu .span-icon:hover{
+    color: #499ef3;
+}
+.question-menu .question-icon{
+    margin-right: 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.question-menu .active{
+    color: #499ef3;
+}
+.question-menu .question-icon:hover{
+    color: #499ef3;
+}
+.comments{
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+.question-a{
+    display: block;
+    color: #999999;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.sub-comment{
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eee;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+.sub-comment .btn{
+    margin: 15px 0px;
 }

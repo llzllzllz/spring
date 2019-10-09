@@ -1,0 +1,1 @@
+alter table COMMENT alter column COMMENT_COUNT INTEGER default 0;
