@@ -1,1 +1,0 @@
-alter table COMMENT alter column ID integer default (NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_94F9015F_6BA7_4EF3_B2E6_97EB7A22C83C) auto_increment
